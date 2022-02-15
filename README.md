@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyfrak&label=Profile%20views&color=0e75b6&style=flat" alt="hyfrak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyfrak" alt="hyfrak" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hyfrak" target="blank"><img src="https://img.shields.io/twitter/follow/hyfrak?logo=twitter&style=for-the-badge" alt="hyfrak" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/ashish-hegde24/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hyfrak" /></a> </p>
@@ -41,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyfrak&show_icons=true&locale=en" alt="hyfrak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyfrak&" alt="hyfrak" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyfrak" alt="hyfrak" /></a> </p>
